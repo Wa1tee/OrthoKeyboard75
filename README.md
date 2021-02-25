@@ -1,7 +1,9 @@
 # OrthoKeyboard75
 
 ## Features:
- - Keyboard with a 15 x 5 button ortholinear layout 
+ - Keyboard with a split ortholinear layout
+    - Two 5x6 clusters
+    - 3.5" touch screen in between
  - USB Type-C connector
  - A form factor that fits in a standard 60% keyboard case
  - On board STM32 microcontroller - No separate controller devboard like Pro Micro
