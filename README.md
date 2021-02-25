@@ -7,12 +7,17 @@
  - On board STM32 microcontroller - No separate controller devboard like Pro Micro
  - Support for MX and Kailh Choc switches
  - Possible support for Kailh X switches
- - Encoder support
-
-## ToDo:
+ 
+## ToDo hardware:
 - [x] Switch matrix with diodes
-- [ ] Choose a 3V3 Regulator
-- [ ] Add a rotary encoder to schematic
-- [ ] Choose the STM32F0x2 version
-- [ ] Wiring for the rows and columns to the MCU
-- [ ] Begin laying out the PCB
+- [x] Choose a 3V3 Regulator
+- [x] Choose the STM32F303 version
+- [x] Wiring for the rows and columns to the MCU
+- [x] Begin laying out the PCB
+- [ ] Standoff positions for 60% case
+- [ ] Choose TFT module
+- [ ] Component layout
+- [ ] Routing
+
+## ToDo software:
+- [ ] Everything lol :D
