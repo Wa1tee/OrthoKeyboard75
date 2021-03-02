@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name orthoProject75-rescue)(type Legacy)(uri ${KIPRJMOD}/orthoProject75-rescue.lib)(options "")(descr ""))
+)
