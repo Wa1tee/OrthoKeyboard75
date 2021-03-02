@@ -2,7 +2,7 @@
 
 ## Features:
  - Keyboard with a split ortholinear layout
-    - Two 5x6 clusters
+    - Two 5x6 clusters of buttons
     - 3.5" touch screen in between
  - USB Type-C connector
  - A form factor that fits in a standard 60% keyboard case
